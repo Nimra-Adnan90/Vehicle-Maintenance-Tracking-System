@@ -1,2 +1,3 @@
 # Vehicle-Maintenance-Tracking-System
-This is my first GitHub
+This is my first Git Repositry.
+Author - Nimra Adnan
